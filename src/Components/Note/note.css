@@ -1,0 +1,9 @@
+
+.note .icon {
+    cursor: pointer;
+    opacity: 0;
+    transition: 300ms;
+}
+.note:hover .icon {
+    opacity: 1;
+}
